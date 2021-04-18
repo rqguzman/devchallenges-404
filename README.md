@@ -14,7 +14,7 @@
 
 ### LICENCE
 
-:construction: To be included soon.
+[![License: GPL-2.0](https://img.shields.io/github/license/rqguzman/devchallenges-404?color=0a7bbb)](https://github.com/rqguzman/devchallenges-404/blob/main/LICENSE)
 
 ### TECHNOLOGIES
 <p>
